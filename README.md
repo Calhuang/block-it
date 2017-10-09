@@ -4,5 +4,7 @@ Block It is a Google Chrome extension made to help filter through images on the 
 
 # Instructions
 Coming Soon
+
+
 Right now the default filter is "arachnid".
 To change this, edit the js file variable filter.
