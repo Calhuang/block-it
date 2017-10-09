@@ -7,4 +7,4 @@ Coming Soon
 
 
 Right now the default filter is "arachnid".
-To change this, edit the js file variable filter.
+To change this, edit the content.js file variable filter.
